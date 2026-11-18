@@ -11,7 +11,7 @@ func main() {
 	fmt.Println("masukan berapa ongkirnya + pajak lagi hadeh")
 	fmt.Scan(&ongkir)
 
-	fmt.Println("masukan jumlah barang")
+	fmt.Println("masukan jumlah barang + tau lah apa")
 	fmt.Scan(&jumlah)
 
 	subtotal := float64(jumlah) * harga
