@@ -8,7 +8,7 @@ func main() {
 	fmt.Println("masukan harga barang + ppn + pajak + ABPN")
 	fmt.Scan(&harga)
 
-	fmt.Println("masukan berapa ongkirnya")
+	fmt.Println("masukan berapa ongkirnya + pajak lagi hadeh")
 	fmt.Scan(&ongkir)
 
 	fmt.Println("masukan jumlah barang")
