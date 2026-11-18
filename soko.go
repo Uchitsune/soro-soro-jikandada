@@ -5,7 +5,7 @@ func main() {
 	var harga float64
 	var ongkir float64
 	var jumlah int
-	fmt.Println("masukan harga barang")
+	fmt.Println("masukan harga barang + ppn + pajak + ABPN")
 	fmt.Scan(&harga)
 
 	fmt.Println("masukan berapa ongkirnya")
